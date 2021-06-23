@@ -1,6 +1,6 @@
-# Presentacion
+# Presentación
 
-- [Video](https://drive.google.com/file/d/1Z98T61Cueb_OOZEMisX53NhkD6caB9U1/view?usp=sharing)
+- [Vídeo](https://drive.google.com/file/d/1Z98T61Cueb_OOZEMisX53NhkD6caB9U1/view?usp=sharing)
 - [Diapositivas](https://docs.google.com/presentation/d/1Z4XJeZIhmJE_S885iLSA6B0R3Ff6lAWfp8p2geEZ1Ps/edit?usp=sharing)
 
 
